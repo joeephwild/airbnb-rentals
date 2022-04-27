@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/airbnb-rentals/static/css/main.e8c603fb.css",
+    "main.js": "/airbnb-rentals/static/js/main.1d7490c8.js",
+    "static/js/787.6b5c6b0d.chunk.js": "/airbnb-rentals/static/js/787.6b5c6b0d.chunk.js",
+    "static/media/max.jpg": "/airbnb-rentals/static/media/max.447b5531bc1b03648d96.jpg",
+    "static/media/darkhouse.jpg": "/airbnb-rentals/static/media/darkhouse.18f189c92dab19e3845a.jpg",
+    "static/media/portrait.jpg": "/airbnb-rentals/static/media/portrait.6b73fd246a999fb8e32e.jpg",
+    "static/media/forest.JPG": "/airbnb-rentals/static/media/forest.df844a4ac483cbb9a5ec.JPG",
+    "static/media/nathan.jpg": "/airbnb-rentals/static/media/nathan.dfdb18f82a4a4483d221.jpg",
+    "static/media/kimberly.jpg": "/airbnb-rentals/static/media/kimberly.16f492dcbbf36652c83d.jpg",
+    "static/media/houseblock.jpg": "/airbnb-rentals/static/media/houseblock.072046640907816a33af.jpg",
+    "static/media/house.jpg": "/airbnb-rentals/static/media/house.68bf148828d26b2cd583.jpg",
+    "static/media/jess.jpg": "/airbnb-rentals/static/media/jess.768f7c894d333fdbcbd0.jpg",
+    "static/media/jonathan.jpg": "/airbnb-rentals/static/media/jonathan.470ce59d68df2636df69.jpg",
+    "static/media/airbnb.JPG": "/airbnb-rentals/static/media/airbnb.5fdba60e2d668cec871b.JPG",
+    "static/media/frontpagebg.png": "/airbnb-rentals/static/media/frontpagebg.2c1c34604340bc1c5c7f.png",
+    "index.html": "/airbnb-rentals/index.html",
+    "main.e8c603fb.css.map": "/airbnb-rentals/static/css/main.e8c603fb.css.map",
+    "main.1d7490c8.js.map": "/airbnb-rentals/static/js/main.1d7490c8.js.map",
+    "787.6b5c6b0d.chunk.js.map": "/airbnb-rentals/static/js/787.6b5c6b0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8c603fb.css",
+    "static/js/main.1d7490c8.js"
+  ]
+}
