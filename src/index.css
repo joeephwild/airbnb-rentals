@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+ @apply m-0 p-0;
+}
+jonathan{
+    @apply w-80 h-60;
+}
+kimberly{
+    @apply w-56 h-48;
+}
+
+
